@@ -10,3 +10,6 @@ A simple SDL2 Game
 - Thư viện đồ họa SDL2
 - Lập trình hướng đối tượng
 - Sử dụng các thuật toán cơ bản: xử lí va chạm, xử lí đường đạn
+## Nguồn tài liệu
+- Lazyfoo
+- Youtube
